@@ -1,4 +1,5 @@
 # Data-Structures-and-Algorithms-in-Java
+## Coursework - can ignore
 Q1. Stop words are high-frequency words that are removed from the representation of natural language data. Write a method deleteStopwords(input, stopwords) that deletes a list of words stopwords from some text input. Your method should work successfully with the contents of the input file. Input.txt and the stop words listed in the file stopwords.txt You should not remove punctuations, rather you will simply map all the words available in the file and match with Input.txt file and remove those words from the file. All remaining words, including duplicates, will be stored in the ArrayList. All words are case insensitive.
 
 Q2. Implement the insertion sort algorithm to sort the words obtained from Question (1) in alphabetical order.
